@@ -5,10 +5,11 @@
 
 ## Install
 
-1. Download and unzip the archive, then run the *setup.exe* file on your Windows OS
-2. **Start** > **Settings** > **Time & language** > **Language & region** > **Italian (Italy)** > **Language options (...)** > **Add a keyboard** > **"Italian (Programmers | Unix-like)"**
-3. Restart the operative system
-4. Press **Windows key** + **space** and select it
+1. Download and unzip the archive, then run the *setup.exe* file inside the folder on your Windows OS
+- If **Windows Defender SmartScreen** is enabled, in the window that opens click **More info** and then **Run anyway**
+  - In case, allow also on  **UAC** (**User Access Control**) window by clicking **Yes**
+- If the keyboard is not automatically added, go to: **Start** > **Settings** > **Time & language** > **Language & region** > **Italian (Italy)** > **Language options (...)** > **Add a keyboard** > **"Italian (Programmers | Unix-like)"**
+2. Press **Windows key** + **space** and select it
 
 ## Use
 
