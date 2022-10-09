@@ -9,8 +9,8 @@
 - If **Windows Defender SmartScreen** is enabled, in the window that opens click **More info** and then **Run anyway**
   - In case, allow also on  **UAC** (**User Access Control**) window by clicking **Yes**
 2. Press **Windows key** + **space** and select it
-- If the keyboard is not automatically added, go to: **Start** > **Settings** > **Time & language** > **Language & region** > **Italian (Italy)** > **Language options (...)** > **Add a keyboard** > "**Italian (Programmers | Unix-like)**"
-3. Remove the other keyboard ("**Italian**") so that only this one remains to replace it: **Start** > **Settings** > **Time & language** > **Language & region** > **Italian (Italy)** > **Language options (...)** > "**Italian**" > **Remove (...)**
+- If the keyboard is not automatically added, go to: **Start** > **Settings** > **Time & language** > **Language & region** > **Italian (Italy)** (...) > **Language options ** (...) > **Add a keyboard** > "**Italian (Programmers | Unix-like)**"
+3. Remove the other keyboard ("**Italian**") so that only this one remains to replace it: **Start** > **Settings** > **Time & language** > **Language & region** > **Italian (Italy)** (...) > "**Italian**" > **Remove** (...)
 
 ## Use
 
