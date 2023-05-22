@@ -1,4 +1,6 @@
 # itp-keylay
+![GitHub](https://img.shields.io/github/license/ADurante/itp-keylay)
+
 **Italian keyboard layout for programmers (Unix-like)**
 
 ![On-Screen Keyboard of itp-keylay](/images/itp-keylay.png "itp-keylay")
